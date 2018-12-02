@@ -11,5 +11,3 @@ class RatingServiceApplication
     fun main(args: Array<String>) {
         runApplication<RatingServiceApplication>(*args)
     }
-
-
